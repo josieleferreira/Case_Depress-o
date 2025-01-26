@@ -1,5 +1,7 @@
-#  **Análise de depressão nos EUA**
+#  **Análise de fatores associados ao transtorno depressivo na população americana: Uma abordagem com dados do NHANES**
+![image](https://github.com/user-attachments/assets/5ebc6d32-c97c-41f5-bc33-87ddd45b55e0)
 
+## 📌 Descrição:
 Este repositório contém um projeto de análise de dados focado em entender padrões de depressão nos Estados Unidos usando dados do NHANES (National Health and Nutrition Examination Survey). Utilizamos uma abordagem exploratória e visualização de dados para identificar correlações entre variáveis, como gênero, nível educacional e padrões alimentares, com os níveis de depressão relatados.
 
 
