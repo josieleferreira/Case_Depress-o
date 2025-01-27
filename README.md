@@ -4,22 +4,21 @@
 ## 📌 Descrição:
 Este repositório contém um projeto de análise de dados focado em entender padrões de depressão nos Estados Unidos usando dados do NHANES (National Health and Nutrition Examination Survey). Utilizamos uma abordagem exploratória e visualização de dados para identificar correlações entre variáveis, como gênero, nível educacional e padrões alimentares, com os níveis de depressão relatados.
 
+📊[Acesse o meu notebook aqui](https://github.com/josieleferreira/Case_Depressao/blob/main/notebook/Case_Depress%C3%A3o.ipynb)
+
+📃[Acesse a minha apresentação aqui](https://github.com/josieleferreira/Case_Depressao/blob/main/reports/Case%20Depress%C3%A3o.pdf)
+
+
 
 ## 🔧 Como executar localmente:
 
 1. Clone o repositório:
     
     ```
-    git clone https://github.com/seuusuario/depression-analysis.git
+    https://github.com/josieleferreira/Case_Depressao.git
     ```
     
-2. Instale as dependências:
-    
-    ```
-    pip install -r requirements.txt
-    ```
-    
-3. Execute os notebooks ou scripts em `scripts/` para reproduzir as análises.
+
 
 
 ## 🔧 Ferramentas e Tecnologias:
