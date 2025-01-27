@@ -13,7 +13,7 @@ Este repositório contém um projeto de análise de dados focado em entender pad
 
 ## 🔧 Como executar localmente:
 
-1. Clone o repositório:
+1. Clonar o repositório:
     
     ```
     https://github.com/josieleferreira/Case_Depressao.git
